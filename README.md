@@ -1,2 +1,3 @@
 # MinecraftMods
-Minecraft mods (java only) by EazyMod! (In credits says "TheProPlay1" is because it WAS my mc name lol)
+Minecraft mods (java only) by EazyMod! (mc user is kosl_)
+*only made by eazymod*
